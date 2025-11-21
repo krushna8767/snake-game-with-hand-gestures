@@ -209,8 +209,8 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 👤 Author
-**Created by: Pranav Gaikwad**  
-GitHub: **https://github.com/pranavgaikwad51**
+**Created by: Krushna Shinde**  
+GitHub: **https://github.com/krushna8767**
 
 A developer passionate about building innovative AI-enhanced gaming experiences using computer vision and real-time interaction.
 
